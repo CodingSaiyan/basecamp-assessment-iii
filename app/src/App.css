@@ -1,0 +1,11 @@
+body {
+  background: url(./logo.svg);
+  background-repeat: none;
+  background-size: cover;
+  background-position: center center;
+}
+
+.App {
+  margin: 0 auto;
+  text-align: center;
+}

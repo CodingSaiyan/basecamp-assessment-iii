@@ -1,0 +1,17 @@
+a {
+    padding: 20px;
+    background: yellow;
+    border: 1px solid black;
+    text-decoration: none;
+    color: darkorange;
+    font-weight: bold;
+} 
+
+nav {
+    background: red;
+    padding: 40px;
+}
+
+a:hover {
+    color: orange;
+}
